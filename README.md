@@ -1,7 +1,6 @@
-#First Code on
-github
+### First Code on github                         
 
-repository contains:                           
+## Blinking of Capslock key
 
 Shortest code in different languages for Turning On/Off and Blinking of Capslock key.
 
