@@ -1,0 +1,1 @@
+while(1):pag.press("capslock");time.sleep(0.5)  
